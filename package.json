@@ -1,0 +1,23 @@
+{
+  "name": "typescript_course_for_beginners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoldegebrielKebrom/TypeScript_Course_For_Beginners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoldegebrielKebrom/TypeScript_Course_For_Beginners/issues"
+  },
+  "homepage": "https://github.com/WoldegebrielKebrom/TypeScript_Course_For_Beginners#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
